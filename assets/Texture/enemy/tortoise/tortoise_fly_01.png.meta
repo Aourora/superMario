@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "87d5a7c3-b335-4160-90e5-386bed91f5d5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 18,
+  "height": 24,
+  "platformSettings": {},
+  "subMetas": {
+    "tortoise_fly_01": {
+      "ver": "1.0.6",
+      "uuid": "bf4ef8e3-c987-4157-86e0-109f5571e146",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "87d5a7c3-b335-4160-90e5-386bed91f5d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 16,
+      "height": 23,
+      "rawWidth": 18,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

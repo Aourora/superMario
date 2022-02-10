@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "389956cd-2602-4b0f-a58a-c4f0c037174d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 10,
+  "height": 14,
+  "platformSettings": {},
+  "subMetas": {
+    "blinkcoin_03": {
+      "ver": "1.0.6",
+      "uuid": "3ca6478b-1eb3-4372-a0f9-686c687110ac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "389956cd-2602-4b0f-a58a-c4f0c037174d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 10,
+      "height": 14,
+      "rawWidth": 10,
+      "rawHeight": 14,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

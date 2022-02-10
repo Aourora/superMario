@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemyMushroomNoraml",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "556aab0d-d083-4c85-bc18-0e1bc2288047"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "744725ac-04ce-4eb6-9771-92caac0fbaca"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "556aab0d-d083-4c85-bc18-0e1bc2288047"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "744725ac-04ce-4eb6-9771-92caac0fbaca"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "556aab0d-d083-4c85-bc18-0e1bc2288047"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "744725ac-04ce-4eb6-9771-92caac0fbaca"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "556aab0d-d083-4c85-bc18-0e1bc2288047"
+            }
+          },
+          {
+            "frame": 1.4,
+            "value": {
+              "__uuid__": "744725ac-04ce-4eb6-9771-92caac0fbaca"
+            }
+          },
+          {
+            "frame": 1.6,
+            "value": {
+              "__uuid__": "556aab0d-d083-4c85-bc18-0e1bc2288047"
+            }
+          },
+          {
+            "frame": 1.8,
+            "value": {
+              "__uuid__": "744725ac-04ce-4eb6-9771-92caac0fbaca"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

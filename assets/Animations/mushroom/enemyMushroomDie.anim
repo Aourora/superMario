@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemyMushroomDie",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2,
+  "sample": 5,
+  "speed": 5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "95a8606a-a3b4-4020-b00b-9b9bdd2c94aa"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "2f0a1428-26cd-4f96-8ec1-3f7318e451d9"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "95a8606a-a3b4-4020-b00b-9b9bdd2c94aa"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "2f0a1428-26cd-4f96-8ec1-3f7318e451d9"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "95a8606a-a3b4-4020-b00b-9b9bdd2c94aa"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "2f0a1428-26cd-4f96-8ec1-3f7318e451d9"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

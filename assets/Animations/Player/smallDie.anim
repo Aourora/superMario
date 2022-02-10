@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "smallDie",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "64f60948-ccc4-4a08-9d41-c1ca236bd666"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a02a01a1-8536-4f7c-b7e0-eb7d6aecc036"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "d28db1b9-5573-43a2-8ba4-cac892b9330a"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "09b8bdfc-3042-41ba-ba5f-65a5d4230a10"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "540730c9-28f4-4235-b6af-a4e11d316c44"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d94f652a-1e45-4ce8-911a-f9474ffe1bfd"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "24d3d680-3fef-4ff5-925e-b44422404b82"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
